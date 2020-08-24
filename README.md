@@ -6,5 +6,5 @@ Data Science Projects in Python
 *	Total number of observations include 8,378
 *	Feature engineering include log transformations and polynomial transformations.
 *	Applied the Synthetic Minority Oversampling Technique (SMOTE) in increase accuracy for imbalanced data
-*	Increased accuracy from 52% to 71%
+*	Increased AUC from 52% to 71%
 

@@ -1,9 +1,9 @@
 # Python_Portfolio
 Data Science Projects in Python
 
-# [Project 1: Dating Match Classifier](https://github.com/rudymeza54/Python_Portfolio/blob/master/Dating_Classifier_Code%20(2).ipynb)
+# [Project 1: Dating Match Classifier](https://github.com/rudymeza54/Python_Portfolio/blob/master/Dating_Classifier_Code.ipynb)
 * I have included my analysis and the data downloaded from kaggle.
-* The motivation for this project was to explore what certain features drive dating mathcing for participants in a speed dating environment.
+* The motivation for this project was to explore what certain features drive dating matches for participants in a speed dating environment.
 * Used the Logistic Regression to properly classify matches for participants in Speed Dating.
 * Total number of observations include 8,378
 * Feature engineering includes log transformations and polynomial transformations.

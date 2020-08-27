@@ -12,15 +12,15 @@ Data Science Projects in Python
 * The variables that drive matches are attraction, shared interests, intelligence, fun, and tuition. However, ambition, gender, age, and being sincere lower the probability of finding a match.
 
 # The packages below were used to perform my analysis
-*import numpy as np
-*import pandas as pd
-*import matplotlib.pyplot as plt
-*from dfply import *
-*import seaborn as sns #visualisation
-*from sklearn.linear_model import LinearRegression
-*from sklearn.linear_model import LogisticRegression
-*from sklearn.model_selection import train_test_split
-*from sklearn.metrics import r2_score, mean_squared_error
-*%matplotlib inline
-*sns.set(style="white")
-*sns.set(style="whitegrid", color_codes=True)
+* import numpy as np
+* import pandas as pd
+* import matplotlib.pyplot as plt
+* from dfply import *
+* import seaborn as sns #visualisation
+* from sklearn.linear_model import LinearRegression
+* from sklearn.linear_model import LogisticRegression
+* from sklearn.model_selection import train_test_split
+* from sklearn.metrics import r2_score, mean_squared_error
+* %matplotlib inline
+* sns.set(style="white")
+* sns.set(style="whitegrid", color_codes=True)

@@ -7,7 +7,7 @@ Data Science Projects in Python
 * Used the Logistic Regression to properly classify matches for participants in Speed Dating.
 * Total number of observations include 8,378
 * Feature engineering includes log transformations and polynomial transformations.
-* Applied the Synthetic Minority Oversampling Technique (SMOTE) in increase accuracy for imbalanced data
+* Applied the Synthetic Minority Oversampling Technique (SMOTE) to increase accuracy for imbalanced data
 * Increased AUC from 52% to 71%
 * The variables that drive matches are attraction, shared interests, intelligence, fun, and tuition. However, ambition, gender, age, and being sincere lower the probability of finding a match.
 
